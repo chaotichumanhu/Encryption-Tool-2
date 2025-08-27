@@ -1,0 +1,35 @@
+# requirements.txt for Telegram File Encoder Bot
+# 
+# This project uses only Python standard library modules
+# No external packages required!
+# 
+# Built-in modules used:
+# - json (JSON handling)
+# - urllib.request (HTTP requests)
+# - urllib.parse (URL encoding)
+# - ssl (HTTPS support)
+# - os (Operating system interface)
+# - sys (System functions)
+# - tarfile (Archive creation)
+# - tempfile (Temporary files)
+# - base64 (Encoding/decoding)
+# - random (Random generation)
+# - string (String operations)
+# - time (Time functions)
+# - threading (Multi-threading)
+# - io (Input/output operations)
+#
+# Installation command:
+# pip install -r requirements.txt
+#
+# Note: Since this file is empty of actual requirements,
+# the above command will complete instantly with no installs.
+#
+# If you want to add optional dependencies for development:
+# 
+# Development tools (optional):
+# pylint>=2.15.0          # Code linting
+# black>=22.0.0           # Code formatting
+# pytest>=7.0.0           # Testing framework
+#
+# Uncomment above lines if you want development tools
